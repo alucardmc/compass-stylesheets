@@ -2,7 +2,7 @@
   "name": "compass-stylesheets",
   "version": "1.0.0",
   "authors": [
-    "compass <compass@gmail.com>",
+    "compass <compass@gmail.com>"
   ],
   "description": "Compass mixins",
   "main": "libs/_compass.scss",
